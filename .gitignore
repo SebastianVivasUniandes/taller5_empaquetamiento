@@ -1,0 +1,7 @@
+__pycache__/
+*.py[co]
+.venv/
+package-src/.tox/
+package-src/build/
+package-src/*.egg-info/
+package-src/model/trained/*.pkl
